@@ -1,0 +1,19 @@
+<ul class="footer">
+    <li><a href="#">Acerca de</a></li>
+    <li><a href="#">Centro de ayuda</a></li>
+    <li><a href="#">Condiciones de Servicio</a></li>
+    <li><a href="#">Política de Privacidad</a></li>
+    <li><a href="#">Política de cookies</a></li>
+    <li><a href="#">Información de anuncios</a></li>
+    <li><a href="#">Blog</a></li>
+    <li><a href="#">Estado</a></li>
+    <li><a href="#">Empleos</a></li>
+    <li><a href="#">Recursos para marcas</a></li>
+    <li><a href="#">Publicidad</a></li>
+    <li><a href="#">Marketing</a></li>
+    <li><a href="#">Twitter para empresas</a></li>
+    <li><a href="#">Desarrolladores</a></li>
+    <li><a href="#">Guía</a></li>
+    <li><a href="#">Configuración</a></li>
+    <li><a href="#">© 2021 Twitter, Inc.</a></li>
+</ul>
